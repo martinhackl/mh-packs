@@ -1,0 +1,28 @@
+{
+  "name": "base",
+  "displayName": "Base",
+  "publisher": "mh-packs",
+  "description": "Basic development packages required for all projects",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "albert.TabOut",
+    "alefragnani.Bookmarks",
+    "chrmarti.regex",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "equinusocio.vsc-material-theme-icons",
+    "Gruntfuggly.todo-tree",
+    "joaomoreno.github-sharp-theme",
+    "johnpapa.vscode-peacock",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "tomsaunders.vscode-workspace-explorer",
+    "Tyriar.sort-lines",
+    "wayou.vscode-todo-highlight"
+  ]
+}
