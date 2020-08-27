@@ -1,0 +1,23 @@
+{
+  "name": "mh-packs",
+  "version": "1.0.0",
+  "description": "Collection of Visual Studio Code extension packs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinhackl/mh-packs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinhackl/mh-packs/issues"
+  },
+  "homepage": "https://github.com/martinhackl/mh-packs#readme",
+  "dependencies": {
+    "vsce": "^1.79.3"
+  }
+}
