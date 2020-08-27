@@ -3,6 +3,10 @@
   "displayName": "Javascript",
   "description": "Development packages required for Javascript development",
   "publisher": "mh-packs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinhackl/mh-packs.git"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.48.0"

@@ -3,6 +3,10 @@
   "displayName": "Vue.js",
   "description": "Development packages required for Vue.js projects",
   "publisher": "mh-packs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinhackl/mh-packs.git"
+  },
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.48.0"
