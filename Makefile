@@ -3,6 +3,9 @@ DIST_FILES := $(wildcard dist/*.vsix)
 
 .PHONY: install
 
+setup:
+	npm i
+
 clean:
 	rm -rf dist/
 
