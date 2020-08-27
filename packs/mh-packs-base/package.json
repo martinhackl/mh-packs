@@ -1,8 +1,8 @@
 {
   "name": "base",
   "displayName": "Base",
-  "publisher": "mh-packs",
   "description": "Basic development packages required for all projects",
+  "publisher": "mh-packs",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.48.0"

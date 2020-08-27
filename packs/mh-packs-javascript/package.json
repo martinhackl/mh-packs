@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "displayName": "Javascript",
+  "description": "Development packages required for Javascript development",
+  "publisher": "mh-packs",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "msjsdiag.debugger-for-chrome",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}
