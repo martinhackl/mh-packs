@@ -1,7 +1,7 @@
 ALL_PACKAGES := base javascript vuejs
 DIST_FILES := $(wildcard dist/*.vsix)
 
-.PHONY: install
+.PHONY: setup clean build-% build-all install-% install-all
 
 setup:
 	npm i
