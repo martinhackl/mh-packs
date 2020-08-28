@@ -1,6 +1,6 @@
 {
-  "name": "javascript",
-  "displayName": "Javascript",
+  "name": "essentials-javascript",
+  "displayName": "Essentials: Javascript",
   "description": "Development packages required for Javascript development",
   "publisher": "mh-packs",
   "repository": {

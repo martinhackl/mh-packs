@@ -1,7 +1,7 @@
 {
-  "name": "vuejs",
-  "displayName": "Vue.js",
-  "description": "Development packages required for Vue.js projects",
+  "name": "essentials-python",
+  "displayName": "Essentials: Python",
+  "description": "Python development extensions",
   "publisher": "mh-packs",
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "octref.vetur"
+    "ms-python.python",
+    "wholroyd.jinja"
   ]
 }

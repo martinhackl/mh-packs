@@ -1,6 +1,6 @@
 {
-  "name": "base",
-  "displayName": "Base",
+  "name": "essentials-base",
+  "displayName": "Essentials: Base",
   "description": "Basic development packages required for all projects",
   "publisher": "mh-packs",
   "repository": {
