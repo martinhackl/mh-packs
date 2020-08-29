@@ -2,6 +2,7 @@ ALL_PACKAGES := \
 	essentials-base \
 	essentials-javascript \
 	essentials-python \
+	essentials-react \
 	essentials-vuejs
 DIST_FILES := $(wildcard dist/*.vsix)
 
