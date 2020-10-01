@@ -27,6 +27,7 @@
     "tombonnike.vscode-status-bar-format-toggle",
     "tomsaunders.vscode-workspace-explorer",
     "Tyriar.sort-lines",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "formulahendry.auto-rename-tag"
   ]
 }
