@@ -18,6 +18,7 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "msjsdiag.debugger-for-chrome",
-    "visualstudioexptteam.vscodeintellicode"
+    "visualstudioexptteam.vscodeintellicode",
+    "mgmcdermott.vscode-language-babel"
   ]
 }
